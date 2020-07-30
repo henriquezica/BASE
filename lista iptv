@@ -7,7 +7,7 @@
 https://www.googleapis.com/drive/v3/files/1uYe6DQjTjxsLaOwqlGGjn1GIijSTqzd6?alt=mediakey=AIzaSyDEY2H7CxiTsdBSYZWUMp0mIg7W2b2ItwU
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-amizade-colorida-2011-D_NQ_NP_862012-MLB26556818942_122017-F.jpg" group-title="ANIMAÇÃO",Amizade Colorida
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3quwHLHVzazdGNUai1rNXZCWGc/view
+https://drive.google.com/uc?id=1uYe6DQjTjxsLaOwqlGGjn1GIijSTqzd6&export=download
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/o-virgem-de-40-anos-lacrado-D_NQ_NP_932501-MLB26747338322_022018-F.jpg" group-title="ANIMAÇÃO",O Virgem de 40 anos
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16lVdlG3XbnZuqUe29yXxHXWWLgAHvDAN/view
