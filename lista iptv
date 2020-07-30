@@ -2,8 +2,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmV5wrUYvL_Jrkx_i4KNMtIIMKi3DNstV56KtCYhUiUWCHamGp" group-title="ANIMAÇÃO",A Divisão
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E32P_njuLddt-DjqGKUbwu8mTj5a_gPM/view
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.t1noticias.com.br/upload/conteudo/fotos//5ea03c249ba94.jpg?ssl=1" group-title="ANIMAÇÃO",Sergio
+
+https://www.googleapis.com/drive/v3/files/1uYe6DQjTjxsLaOwqlGGjn1GIijSTqzd6?alt=mediakey=AIzaSyDEY2H7CxiTsdBSYZWUMp0mIg7W2b2ItwU
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-amizade-colorida-2011-D_NQ_NP_862012-MLB26556818942_122017-F.jpg" group-title="ANIMAÇÃO",Amizade Colorida
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3quwHLHVzazdGNUai1rNXZCWGc/view
