@@ -2,6 +2,14 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://cdn.filmtotaal.nl/images/original/ek52dx49v85a.jpg" group-title="Fantasia",Cinderela  2015 
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Cinderella.mp4
+
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6781/62779bb86f3824fb7605175ce167aa47296ce13ev2_hq.jpg" group-title="Ação",Distrito 9 2009
+https://aligator.azureedge.net/RCFServer2/ondemand/DISTRIT9.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WM761YkuSNk/WiFwquL7UkI/AAAAAAAACQA/TT_YjraZkDou0LFZsvuUvrnOlBNy9OQ7wCLcBGAs/s1600/24232965_2070840033193518_3851297365848181825_n.jpg" group-title="Comédia ",A Proposta 2009
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/A-Proposta.mp4
+
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.t1noticias.com.br/upload/conteudo/fotos//5ea03c249ba94.jpg?ssl=1" group-title="ANIMAÇÃO",Sergio
 
 https://www.googleapis.com/drive/v3/files/1uYe6DQjTjxsLaOwqlGGjn1GIijSTqzd6?alt=mediakey=AIzaSyDEY2H7CxiTsdBSYZWUMp0mIg7W2b2ItwU
