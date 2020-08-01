@@ -2,6 +2,32 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/AllEyez_poster.jpg" group-title="Música",All Eyez on Me
+https://aligator.azureedge.net/RCFServer4/ondemand/ALLEYZONMAHSTDTPC.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/K/Kill-Mode-2020-movie-poster.jpg" group-title=" Action",Kill Mode (2020)
+https://mnemosyne.feralhosting.com/cdnmidiacine/filmes/Kill.Mode.2020.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/93/17/73/20240142.jpg" group-title="Comédia ",Um Drink no Inferno 2: Texas Sangrento
+https://aligator.azureedge.net/RCFServer2/ondemand/UDRNKNINFRN2.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Qus-e0lrL._AC_.jpg" group-title="Comédia",Um Drink no Inferno 3 - A Filha do Carrasco
+https://aligator.azureedge.net/RCFServer2/ondemand/UDRNKNINFRN3.mp4
+
+#EXTINF:-1 tvg-logo="https://flixfilmes.org/wp-content/uploads/2020/06/3z4tNgPXb03JI87teNWQWbEZe0d.jpg" group-title=" Comédia",Canguru Jack
+https://tgstream123.herokuapp.com/86624444048628/Canguru_Jack_2003_Dublado_1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/The_Karate_Kid_2010.jpg" group-title="Drama ",Karate Kid
+https://aligator.azureedge.net/RCFServer1/ondemand/KRTKDRMK1.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/518Z7437YxL._AC_SY445_.jpg" group-title="Drama",Karatê Kid 3 - O Desafio Final
+https://aligator.azureedge.net/RCFServer1/ondemand/KRTKD3.mp4
+
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/23426-cartaz.jpg" group-title="ANIMAÇÃO",Queen & Slim
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdnespecial2/QueenESlim.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.filmtotaal.nl/images/original/ek52dx49v85a.jpg" group-title="Fantasia",Cinderela  2015 
 https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Cinderella.mp4
 
