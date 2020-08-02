@@ -2,6 +2,78 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/27/16/12/1090847.jpg" group-title="ANIMAÇÃO",Angry Birds 2: O Filme
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn3/angrybirds2ofilme.mp4
+
+
+#EXTINF:-1 tvg-logo="https://images.penguinrandomhouse.com/cover/9781984849922" group-title="ANIMAÇÃO",Pets – A Vida Secreta dos Bichos 2
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn3/pets2.mp4
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/nz5s7-HJ3iijnvitzCwsa_oD5l7saKAnF_Hv3qGtsP6dtsXTqESZmfuQKqyZZD4UywyB" group-title="ANIMAÇÃO",Vingadores: Ultimato
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdnespecial3/VingadoresUltimato.mp4
+
+#EXTINF:-1 tvg-logo="https://torrentdublado.com/capas/estrada-sem-lei-full-hd-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",Estrada Sem Lei
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn7/EstradaSemLei.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4e/600full-death-race-poster.jpg" group-title="ANIMAÇÃO",Corrida Mortal
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn1/corridasmortais-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC0-D_dZln1ogq424TiRZE4sT5sKaJ3AHrAKXGLls4XNcu00iZ" group-title="ANIMAÇÃO",Animais Fantásticos: Os Crimes de Grindelwald
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn3/animaisfantasticososcrimesdegrindelwald.mp4
+
+#EXTINF:-1 tvg-logo="https://midia.gruposinos.com.br/_midias/jpg/2018/06/17/jurassic-3467691.jpg" group-title="ANIMAÇÃO",Jurassic World: Reino Ameaçado
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn9/jurassicworldreinoameacado.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAbrdQD-f_ol3-qeSRjrCC3DfNvSBzCGXPFKeqd_nfs5JqOs4q" group-title="ANIMAÇÃO",Han Solo: Uma História Star Wars
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn1/hansolo-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://pipocamoderna.com.br/wp-content/uploads/2018/03/jogadornumeroum-02.jpg" group-title="ANIMAÇÃO",Jogador Nº 1
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/jogadornumeroum-dub-480p.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/_PElmvVYBL_utKYo9TtE8AvrZns=/290x478/smart/media/movies/covers/2018/03/bright_ver3_xlg.jpg" group-title="ANIMAÇÃO",Bright
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/bright-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg" group-title="ANIMAÇÃO",Viva – A Vida É uma Festa
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/vivaavidaeumafesta-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLNdN1Y3WZAFXklHf7yni4cN0TErgqevJvZJiTgZKD95OYF5_" group-title="ANIMAÇÃO",Feito na América
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/americanmade-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/zoom/269D365/big-poster-valerian-e-a-cidade-dos-mil-planetas-lo01-90x60-presente-geek.jpg" group-title="ANIMAÇÃO",Valerian e a Cidade dos Mil Planetas
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn7/ValerianeaCidadedosMilPlanetas.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQonBC9vWOR2ezdT7qAiCGaWwMf95qOwlLir6wGzTWn8IkgUlhL" group-title="ANIMAÇÃO",Rei Arthur: A Lenda da Espada
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/reiarthur-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ0-vYmp7ZInvi0JY6BMwLJW6f6eMimemJ0nKlvrxWEBYSuNDc" group-title="ANIMAÇÃO",Despedida em Grande Estilo
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/despedidaemgrandeestilo-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6VQtbQQciwE_zLOgcfTfm4pinERAxr5usph9UWR_8pm-Bcv96" group-title="ANIMAÇÃO",Kong: A Ilha da Caveira
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn9/KongAIlhadaCaveira.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Resident_Evil_Final_Chapter_2016.jpg" group-title="ANIMAÇÃO",Resident Evil 6: O Capítulo Final
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn1/resident6-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/06/17/09/353656.jpg" group-title="ANIMAÇÃO",Ben-Hur
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn6/Benhur.mp4
+
+#EXTINF:-1 tvg-logo="https://megatorrentshd.net/wp-content/uploads/2018/01/capa-area-15.jpg" group-title="ANIMAÇÃO",Range 15
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/area15-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9332657&qld=90&l=830&a=-1=1007943217" group-title="ANIMAÇÃO",O Último Caçador de Bruxas
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn12/OUltimoCacadorDeBruxas.2016.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/15/08/27/21/01/591175.jpg" group-title="ANIMAÇÃO",Straight Outta Compton: A História do N.W.A.
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn6/StraightOuttaCamptonAHistoriaDoNWA.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/12/16/13/23/279562.jpg" group-title="ANIMAÇÃO",Êxodo: Deuses e Reis
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn12/ExodoDeusesEReis.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/575/21057568_20131113212032841.jpg" group-title="ANIMAÇÃO",Noé
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn9/Noe.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/dc/ea/ee/dceaeead76576adcf66c18054baa7dc3.jpg" group-title="ANIMAÇÃO",Riddick 3
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn11/Riddick3.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/AllEyez_poster.jpg" group-title="Música",All Eyez on Me
 https://aligator.azureedge.net/RCFServer4/ondemand/ALLEYZONMAHSTDTPC.mp4
 
