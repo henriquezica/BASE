@@ -2,6 +2,70 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/12/16/19/46/414417.jpg" group-title="ANIMAÇÃO",Pixels
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn9/Pixels.2015.mp4
+
+#EXTINF:-1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dragon-blade-dvd-flashstar-home-video/saraiva/9373105/dca1134ffb7279d808c50c84640fbe90.jpg" group-title="ANIMAÇÃO",Dragon Blade
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn9/DragonBlade.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/05/09/18/01/325769.jpg" group-title="ANIMAÇÃO",Juntos e Misturados
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn3/JuntoseMisturados.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQokRo7h-FZJvxRIvRHFxGYrd19XFGkTFSVQBFRNK5UxbtNzbyu" group-title="ANIMAÇÃO",Cães Astronautas 2: Uma Aventura na Lua
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn8/SpaceDogsAAventuranaLua.mp4
+
+#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/2069271/1001112090.jpg?v=637006964954730000" group-title="ANIMAÇÃO",Percy Jackson e o Mar de Monstros
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn6/PercyJacksonMardMonstros.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-18TCXCT2Aa0/UdI4YUUldqI/AAAAAAAADHM/I2fJ4T53ClI/s600/wwz.jpg" group-title="ANIMAÇÃO",Guerra Mundial Z
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn6/worldwarz-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXM6aY5Zl3MYG3KNwtekrmVs0MO8ApjkwY4a6LYzXkYiXzn6af" group-title="ANIMAÇÃO",Meu Malvado Favorito 2
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn1/meumalvadofavorito2-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/liomenoi.me/wp-content/uploads/2016/12/yx7ETzhiX7A3QATGJ556F41bzfc.jpg?fit=640%2C960&ssl=1" group-title="ANIMAÇÃO",cooby-Doo! A Máscara do Falcão Azul
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn8/ScoobyDooAMascarado.Falcao.Azul.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--gm5OXoFqlA/TuuUuBzv9xI/AAAAAAAACrI/uMg333JctRg/s1600/happy-feet-2-poster.jpg" group-title="ANIMAÇÃO",Happy Feet 2: O Pinguim
+
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn11/HappyFeet.2.mp4
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/percy-jackson-e-o-ladrao-de-raios-D_NQ_NP_689330-MLB26295061465_112017-F.jpg" group-title="ANIMAÇÃO",Percy Jackson e o Ladrão de Raios
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn6/PercyJacksoneoLadraodeRaios.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61CYi1iQG7L._AC_SX569_.jpg" group-title="ANIMAÇÃO",O Bicho Vai Pegar 3
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn11/OBichoVaiPegar.3.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1b9746_d77b8b43f9d04b30a7fe3bbef0268331~mv2.jpg" group-title="ANIMAÇÃO",Um Olhar do Paraíso
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn1/umolhardoparaiso-dub-360p.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRApVINAzPeFCYAN04F1L2kfane3NFpPfQ4I6cWy9oco4uvCj3i" group-title="ANIMAÇÃO",Missão Quase Impossível
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn8/MissaoQuaseImpossivel.mp4
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-5cCIMvkFVms/VKg7PQvNxhI/AAAAAAAABmw/fLfZLvx_mpc/s1600/sherlock-holmes-2009-poster-artwork-robert-downey-jr-jude-law-rachel-mcadams.jpg" group-title="ANIMAÇÃO",Sherlock Holmes (2009)
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn7/SherlockHolmes.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d8/Chipmunks2squeakuel.jpg" group-title="ANIMAÇÃO",Alvin e os Esquilos 2
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn2/esquilos2-dub-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg" group-title="ANIMAÇÃO",Avatar
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn3/avatar.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ19hsmkkowYJHouogal8NFWNSvJZJU21Ux0br6GZJWzqGIcQFN" group-title="ANIMAÇÃO",Duelo de Assassinos
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn11/DuelodeAssassinos.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/18/18/18/338928.jpg" group-title="ANIMAÇÃO",Arthur e a Vingança de Maltazard
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn12/ArthurEAVingancaDosMaltazards.mp4
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/ct83JWkIEQWPBui-WFszJq6iyy4=/290x478/smart/media/movies/covers/2010/10/b6ecc94c931c9cab6a0b379e2aa7f169.jpg" group-title="ANIMAÇÃO",Os Fantasmas de Scrooge
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn11/OsFantasmasDeScrooge.2009.mp4
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/exzvRUyYBOD8E-CJo8rtxgiq1ChSET9kRuD3QxgtPohmi5wzwibHvSGSPnijeCMQ3gFU" group-title="ANIMAÇÃO",Pequenos Invasores
+
+http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn12/PequenosInvasores.2009.mp4
+
+
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/27/16/12/1090847.jpg" group-title="ANIMAÇÃO",Angry Birds 2: O Filme
 http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdn3/angrybirds2ofilme.mp4
 
