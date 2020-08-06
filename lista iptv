@@ -2,8 +2,73 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/1_RWEIHsNC73swJn4vVXAxu2vMM=/290x478/smart/media/movies/covers/2010/09/054a0186cc03a69fd82ca2aad8263caa.jpg" group-title="ANIMAÇÃO",2012
+https://bit.ly/2C4ghRH
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/17_Again_P%C3%B4ster.jpg" group-title="ANIMAÇÃO",17 Outra Vez
+https://bit.ly/3i7suo2
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK" group-title="ANIMAÇÃO",12 Heróis
+https://bit.ly/31uUgnA
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/zbeCs_7GG5BspRmZMN3qGwgI2J4=/290x478/smart/media/movies/covers/2018/08/34820245_10x10_PA_1600x2400.jpg" group-title="ANIMAÇÃO",10x10.2018
+https://bit.ly/3gy2wty
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Xmen_apocalypse_ver18.jpg" group-title="ANIMAÇÃO",X-Men: Apocalipse
+
+https://bit.ly/3gzK2bP
+
+
+#EXTINF:-1 tvg-logo="https://flixfilmes.org/wp-content/uploads/2020/06/5sF9Bv5J73nAz7Co3KW6BvVPisV.jpg" group-title="ANIMAÇÃO",Quarteto Fantástico e o Surfista Prateado
+Descubra o segredo do surfista.Jun. 13, 2007
+
+
+https://bit.ly/3idUciN
+
+#EXTINF:-1 tvg-logo="https://cinemaemcena.com.br/uploads/criticas_old/filmes-253-cartazes-2774.jpg" group-title="ANIMAÇÃO",Quarteto Fantástico
+Prepare-se para o fantástico.Jun. 29, 2005
+
+https://bit.ly/2XzeLyq
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Pantera_Negra_%28poster%29.jpg" group-title="ANIMAÇÃO",Pantera Negra
+
+
+https://bit.ly/30w469I
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.awsli.com.br/800x800/222/222813/produto/12714467/07c8a6a1e9.jpg" group-title="ANIMAÇÃO",O Máskara
+
+
+
+https://bit.ly/3gALhHM
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xiTQGLQNeuMwjWkHcJSQ46ZnLup.jpg" group-title="ANIMAÇÃO",As Donas Da Noite
+Oct. 28, 2010
+
+https://bit.ly/2DutQKG
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk0MGE3MmEtZjEwOC00NWJkLWE3ZmUtNGQwMjgyYjZiYzgwXkEyXkFqcGdeQXVyMTA5NTk2MDA4._V1_.jpg" group-title="ANIMAÇÃO",Solar Impact
+
+https://bit.ly/30weePD   720
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk0MGE3MmEtZjEwOC00NWJkLWE3ZmUtNGQwMjgyYjZiYzgwXkEyXkFqcGdeQXVyMTA5NTk2MDA4._V1_.jpg" group-title="ANIMAÇÃO",Solar Impact
+
+https://bit.ly/30ydbyD   360
+--------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/400/0*u417-qG10kYBvP2F.jpeg" group-title="ANIMAÇÃO",DOOM: ANIQUILAÇÃO
 http://bermuda.freefirenews.com.global.prod.fastly.net/token_b3a149b536e532fcba909858bc4a6d40/cdnespecial3/DoomAniquilacao.2020.mp4
 
