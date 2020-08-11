@@ -2,6 +2,78 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/filmes/filmes_481_f7f30f82583e85cf847a8072cf9dfb83.jpg" group-title=" Fantasia",Harry Potter e a Pedra Filosofal
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/7e/e7/fb7ee741aa5d3e0b9f3054bef59f75d2.jpg" group-title=" Fantasia",Harry Potter e a Câmara Secreta
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-2.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/93/88/04/20282944.jpg" group-title=" Fantasia",Harry Potter e o Prisioneiro de Azkaban
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-3.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7b/Harry_Potter_C%C3%A1lice_Fogo_2004.jpg" group-title=" Fantasia",Harry Potter e o Cálice de Fogo
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-4.mp4
+
+
+#EXTINF:-1 tvg-logo="https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/174520140528-uau-posters-filmes-harry-potter-5-e-a-ordem-da-fenix--harry-potter-and-the-order-of-the-phoeni.jpg" group-title=" Fantasia",Harry Potter e a Ordem da Fênix
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b2/79/6b/b2796b352941f6358492d9ad0c376da5.jpg" group-title=" Fantasia",Harry Potter e o Enigma do Príncipe
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-6.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/64/Harry_Potter_Deathly_Hallows_2010.jpg" group-title="Fantasia",Harry Potter e as Relíquias da Morte: Parte 1
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-7.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/42/Harry_Potter_e_as_Rel%C3%ADquias_da_Morte_-_Parte_2_%28trilha%29.jpg" group-title="Fantasia",Harry Potter e as Relíquias da Morte: Parte 2
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-8.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/The_Fellowship_Of_The_Ring.jpg" group-title="Fantasia",O Senhor dos Anéis: A Sociedade do Anel
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/O-Senhor-dos-Aneis-1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/The_Lord_of_the_Rings_The_Two_Towers.jpg" group-title="Fantasia",O Senhor dos Anéis: As Duas Torres
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/O-Senhor-dos-Aneis-2.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0d/EsdlaIII.jpg" group-title="Fantasia",O Senhor dos Anéis: O Retorno do Rei
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/O-Senhor-dos-Aneis-3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/d9/fe/57d9fe5f56f6d3c054ff9c5fe2c329dc.jpg" group-title="ANIMAÇÃO",Uma Noite no Museu
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Uma-Noite-no-Museu.mp4
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-uma-noite-no-museu-2-lacrado-D_NQ_NP_706770-MLB27537313772_062018-F.jpg" group-title="ANIMAÇÃO",Uma Noite no Museu 2
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Uma-Noite-no-Museu-2.mp4
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/uma-noite-no-museu-3-o-segredo-da-tumba-dvd-D_NQ_NP_652861-MLB26884871108_022018-F.jpg" group-title="ANIMAÇÃO",Uma Noite no Museu 3 - O Segredo da Tumba
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Uma-Noite-no-Museu-3---O-Segredo-da-Tumba.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvzw9HXqWI4JvY0qd34uu19zUEK5Zwcndza8YjfnuE7Rc9z49H" group-title="ANIMAÇÃO",Animais Fantásticos e Onde Habitam
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Animais-Fantasticos-e-Onde-Habitam.mp4
+
+#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/12114581/1006628808.jpg?v=637142268509830000" group-title="ANIMAÇÃO",Animais Fantásticos: Os Crimes de Grindelwald
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Animais-Fantasticos-os-Crimes-de-Grindelwald.mp4
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sRizQTZsL._AC_SY606_.jpg" group-title="ANIMAÇÃO",Todo-Poderoso
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Todo-Poderoso.mp4
+
+#EXTINF:-1 tvg-logo="https://www.spacetrek66.com.br/imagem/index/16931053/G/todo_poderoso_2.jpg" group-title="ANIMAÇÃO",A Volta do Todo Poderoso
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/A-Volta-do-Todo-Poderoso.mp4
+
+#EXTINF:-1 tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/2912798/1000707767.jpg?v=637025906527700000" group-title="ANIMAÇÃO",O Hobbit: Uma Jornada Inesperada
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/O-Hobbit-1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/d9/e2/fbd9e2e357263abf6f2e924bab2116db.jpg" group-title="ANIMAÇÃO",O Hobbit: A Desolação de Smaug
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/O-Hobbit-2.mp4
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1011/1*Ij1dYCns1UWc4NWDxFJ4Ew.jpeg" group-title="ANIMAÇÃO",O Hobbit: A Batalha dos Cinco Exércitos
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/O-Hobbit-3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzZCY8q-I_IhEtX6I9HfufmKugC7UFjr8e86QO3-ekuWEGX4WA" group-title="ANIMAÇÃO",A Múmia
+https://storage.googleapis.com/apk-cine5g.appspot.com/movies/A-Mumia.mp4
+
+
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/1_RWEIHsNC73swJn4vVXAxu2vMM=/290x478/smart/media/movies/covers/2010/09/054a0186cc03a69fd82ca2aad8263caa.jpg" group-title="ANIMAÇÃO",2012
 https://bit.ly/2C4ghRH
 
