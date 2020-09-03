@@ -3,6 +3,24 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/285/21028501_20130814234140534.jpg" group-title="ANIMAÇÃO",3000 Milhas para o Inferno
+http://144.217.77.29/0912/3000.Milhas.Para.o.Inferno.2001.720p.BluRay.AC3.DUAL-BEAVERY.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWbyCCmuStV4aIxk3Eic1mGc6CxJ6SQMgy0ypzVH2HAr4KvlKY" group-title="ANIMAÇÃO",Corpo Fechado
+http://144.217.77.29/0912/Corpo%20Fechado%20(2000)%201080p%20Dublado%20-%20Alan_680.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGXhgAzTQD9luBdRE8mvcj0BQd7rWhF0KYda70OHK8hQOyjbcO" group-title="ANIMAÇÃO",Eclipse Mortal
+http://144.217.77.29/0912/Eclipse%20Mortal%20(2000).mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtvjGxHdXst9cgvgFnBu7MioimSXFNBCfjzQPEt7QSi41Xe9-z" group-title="ANIMAÇÃO",O Terno de Dois Bilhões de Dólares
+http://144.217.77.29/0912/O.Terno.de.2.Bilh%c3%b5es.de.D%c3%b3lares.2002.1080p.BluRay.6CH.x264.DUAL-WwW.LAPUMiA.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtvjGxHdXst9cgvgFnBu7MioimSXFNBCfjzQPEt7QSi41Xe9-z" group-title="ANIMAÇÃO",O Terno de Dois Bilhões de Dólares
+http://144.217.77.29/0912/Romeu%20Tem%20Que%20Morrer%20%5b2000%5d%20-%20BluRay%20720p%20Dublado.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWPF0OOcvC2cc0sXmO3ZS10hveFfeQXilGwlcKrLdqxUwa3Gd" group-title="ANIMAÇÃO",Romeu Tem Que Morrer
+http://144.217.77.29/0912/Romeu%20Tem%20Que%20Morrer%20%5b2000%5d%20-%20BluRay%20720p%20Dublado.mkv
 #EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/filmes/filmes_481_f7f30f82583e85cf847a8072cf9dfb83.jpg" group-title=" Fantasia",Harry Potter e a Pedra Filosofal
 https://storage.googleapis.com/apk-cine5g.appspot.com/movies/Harry-Potter-1.mp4
 
